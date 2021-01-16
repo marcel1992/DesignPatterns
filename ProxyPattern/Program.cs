@@ -4,6 +4,9 @@ namespace ProxyPattern
 {
     class Program
     {
+        /*
+         * Decorators focus on adding responsibilities, whereas proxies focus on controlling access to an object!
+         */ 
         static void Main(string[] args)
         {
             Console.WriteLine("Proxy Pattern");
