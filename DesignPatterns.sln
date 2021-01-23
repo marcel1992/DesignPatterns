@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorPattern", "Decorat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{228AFCDF-2694-4309-B80B-67235431B726}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePattern", "FacadePattern\FacadePattern.csproj", "{403E30EA-2171-4E4C-A8F9-5B43BC4AF1BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadePattern", "FacadePattern\FacadePattern.csproj", "{403E30EA-2171-4E4C-A8F9-5B43BC4AF1BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern", "FlyweightPattern\FlyweightPattern.csproj", "{EFA202E9-CEF8-4ECF-8FD5-6224AEAED94E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlyweightPattern", "FlyweightPattern\FlyweightPattern.csproj", "{EFA202E9-CEF8-4ECF-8FD5-6224AEAED94E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "CompositePattern\CompositePattern.csproj", "{DB85900C-941D-4D12-BFB9-85E780CF8943}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -167,6 +169,18 @@ Global
 		{EFA202E9-CEF8-4ECF-8FD5-6224AEAED94E}.Release|x64.Build.0 = Release|Any CPU
 		{EFA202E9-CEF8-4ECF-8FD5-6224AEAED94E}.Release|x86.ActiveCfg = Release|Any CPU
 		{EFA202E9-CEF8-4ECF-8FD5-6224AEAED94E}.Release|x86.Build.0 = Release|Any CPU
+		{DB85900C-941D-4D12-BFB9-85E780CF8943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB85900C-941D-4D12-BFB9-85E780CF8943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB85900C-941D-4D12-BFB9-85E780CF8943}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DB85900C-941D-4D12-BFB9-85E780CF8943}.Debug|x64.Build.0 = Debug|Any CPU
+		{DB85900C-941D-4D12-BFB9-85E780CF8943}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DB85900C-941D-4D12-BFB9-85E780CF8943}.Debug|x86.Build.0 = Debug|Any CPU
+		{DB85900C-941D-4D12-BFB9-85E780CF8943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB85900C-941D-4D12-BFB9-85E780CF8943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB85900C-941D-4D12-BFB9-85E780CF8943}.Release|x64.ActiveCfg = Release|Any CPU
+		{DB85900C-941D-4D12-BFB9-85E780CF8943}.Release|x64.Build.0 = Release|Any CPU
+		{DB85900C-941D-4D12-BFB9-85E780CF8943}.Release|x86.ActiveCfg = Release|Any CPU
+		{DB85900C-941D-4D12-BFB9-85E780CF8943}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
